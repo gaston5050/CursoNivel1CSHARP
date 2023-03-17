@@ -1,4 +1,15 @@
 Ver version instalada de .net
 dotnet -version
-Crear proyecto de consola
+Crear proyecto de consola:
 dotnet new conole -o primerprograma
+Crear proyecto de version anterior de .net:
+dotnet new console -o ejemplo5 --framework net5.0
+
+
+
+
+addon prettier mejora estetica codigo 
+shift  + alt + f
+Ver que hay en la carpeta: ls
+Ejecutar programa: dotnet 
+Entrar a carpeta: cd primer-programa
