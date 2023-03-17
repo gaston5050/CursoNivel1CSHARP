@@ -1,0 +1,4 @@
+Ver version instalada de .net
+dotnet -version
+Crear proyecto de consola
+dotnet new conole -o primerprograma
